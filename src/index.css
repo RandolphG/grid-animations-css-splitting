@@ -1,0 +1,21 @@
+*, *:before,*:after{
+    box-sizing: border-box;
+    position: relative;
+}
+
+html,body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background: darkgrey;
+    font-family:  "Roboto", "Oxygen", "Fira Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
