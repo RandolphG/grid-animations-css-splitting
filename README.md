@@ -1,4 +1,4 @@
-## Electron React Starter
+## CSS Grid Animations w/Splitting
 
 In the project directory, you can run:
 
