@@ -1,8 +1,22 @@
-## CSS Grid Animations w/Splitting
+# Grid Animation
 
-In the project directory, you can run:
+![Grid Animation](https://github.com/RandolphG/grid-animations-css-splitting/blob/master/public/_grid_animation.gif?raw=true)
+
+### Installation process :
+
+- clone repo
+- navigate to project folder
+- install all dependencies with npm
+- run with npm
 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+```bash
+$ git clone https://github.com/RandolphG/grid-animations-css-splitting.git
+$ cd project
+$ npm i
+$ npm run electron
+```
+## Features
+- grid animation
+- splitting
+- styled-components
